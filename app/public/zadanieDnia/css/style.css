@@ -12,3 +12,6 @@
 .vote.no {
     background : red;
 }
+.vote.maybe {
+    background : orange;
+}
